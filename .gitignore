@@ -1,0 +1,18 @@
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات المحرر
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ملفات التبعيات
+node_modules/
+package-lock.json
+
+# ملفات البيئة
+.env
+.env.local
+.env.*.local 
